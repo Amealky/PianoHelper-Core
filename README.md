@@ -1,6 +1,7 @@
 ``Reupload project from 2018 : This project was recovered so don't take commits into accounts``
 
-# PianoHelper Core 🎹
+ <h1 align="center">🎹 PianoHelper Core 🎹</h1>
+
 
 PianoHelper core is the Arduino code part of the global PianoHelper project
 
